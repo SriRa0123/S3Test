@@ -6,7 +6,7 @@ on:
       - main
  
 jobs:
-  terraform-plan:
+  terraform_plan-Apply:
     runs-on: ubuntu-latest
  
     steps:
