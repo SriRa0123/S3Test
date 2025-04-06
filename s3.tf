@@ -6,7 +6,7 @@ resource "aws_s3_bucket" "example" {
   acl    = "private"
   
   tags = {
-    Name        = "test-bucket"
+    Name        = "test-bucket1"
   }
 }
  
